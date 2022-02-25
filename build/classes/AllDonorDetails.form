@@ -75,6 +75,9 @@
               </Table>
             </Property>
           </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="AllDonorDetails_jTable1"/>
+          </AuxValues>
         </Component>
       </SubComponents>
     </Container>
